@@ -1,5 +1,7 @@
 # CB-EDP
 
+**Please note that support questions will not be monitored during the summer period of July and August. **
+
 CEF Context Broker integration with the European Data Portal.
 
 This Integration Solution generates from the parameters established in a
